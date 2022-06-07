@@ -1,0 +1,10 @@
+
+.profile {
+    grid-area: h;
+    background-color: darkslategrey;
+
+}
+
+.item {
+    color: whitesmoke;
+}

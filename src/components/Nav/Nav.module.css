@@ -1,0 +1,10 @@
+
+.nav {
+    grid-area: b;
+    width: 270px;
+    background-color: peru;
+}
+
+.item {
+    color: white;
+}
